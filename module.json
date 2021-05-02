@@ -1,0 +1,21 @@
+{
+	"name": "bensdice",
+	"title": "Ben's Dice",
+	"description": "A collection of animated dice.",
+	"version": "0.0.1",
+	"minimumCoreVersion" : "0.7.2",
+	"compatibleCoreVersion" : "0.7.9",
+	"author": "Ben Straub",
+	"dependencies": [
+		{
+			"type": "module",
+			"name": "dice-so-nice"
+		}
+	],
+	"scripts": [
+		"dice.js"
+	],
+	"url": "https://github.com/ben/bensdice",
+	"manifest": "https://raw.githubusercontent.com/ben/bensdice/main/module.json",
+	"download": "https://github.com/ben/bensdice/raw/main/ApertureScienceWCDice.zip"
+}
