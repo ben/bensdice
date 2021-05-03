@@ -17,5 +17,5 @@
 	],
 	"url": "https://github.com/ben/bensdice",
 	"manifest": "https://raw.githubusercontent.com/ben/bensdice/main/module.json",
-	"download": "https://github.com/ben/bensdice/raw/main/ApertureScienceWCDice.zip"
+	"download": "https://github.com/ben/bensdice/archive/refs/heads/main.zip"
 }
