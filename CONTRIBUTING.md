@@ -8,14 +8,14 @@ This document tells you what you need to know to help out with this project.
 - [Blender](https://blender.org)
 - That's it!
 
-<img width="250" alt="image" style="float: right; margin: 0 1em;" src="https://user-images.githubusercontent.com/39902/116891517-a5a65780-abe3-11eb-85fd-576bc7963ee6.png">
-
 ## How to export
 
 Each dice set has its own `.blend` file.
 Open it up, select the **entire hierarchy** of the die you want to export (all parts must be parented to the same root), and go to File ⇒ Export ⇒ glTF.
-Make sure your options look like the image at right.
+Make sure your options look like the image below.
 Then save over the top of the correct die file.
+
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/39902/116891517-a5a65780-abe3-11eb-85fd-576bc7963ee6.png">
 
 ## How to test
 
