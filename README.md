@@ -4,7 +4,7 @@ This Foundry module is a collection of custom dice sets for use with [Dice So Ni
 
 ## Using this package
 
-Plug `https://github.com/ben/bensdice/blob/main/module.json` into the module installer in the Foundry setup menu.
+Plug `https://raw.githubusercontent.com/ben/bensdice/main/module.json` into the module installer in the Foundry setup menu.
 
 ## Help me
 
